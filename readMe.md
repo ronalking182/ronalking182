@@ -7,7 +7,7 @@
 
 - 👨‍💻 Most of my projects are available at [KingDavidAbuTanko.com](KingDavidAbuTanko.com)
 
-- 📝 I regularly write articles on [https://www.kingscod.com/](KingsCode.com)
+- 📝 I regularly write articles on [https://www.kingscod.com/](kingscod.com)
 
 - 💬 Ask me about **javaScript, react, next.js, gatsby, graphCMS and redux**
 
