@@ -7,13 +7,12 @@
 
 - 👨‍💻 Most of my projects are available at [KingDavidAbuTanko.com](KingDavidAbuTanko.com)
 
-- 📝 I regularly write articles on [KingsCode.com](KingsCode.com)
+- 📝 I regularly write articles on [https://www.kingscod.com/](KingsCode.com)
 
 - 💬 Ask me about **javaScript, react, next.js, gatsby, graphCMS and redux**
 
 - 📫 How to reach me **Abutankokingdavid@icloud.com**
 
-- 📄 Know about my experiences [kingdavidresume.com](kingdavidresume.com)
 
 - ⚡ Fun fact **Jesus loves you**
 
@@ -21,7 +20,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/kingdavid abu-tanko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kingdavid abu-tanko" height="30" width="40" /></a>
 <img align="center" alt="KingDavidAbuTanko.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.instagram.com/king_scode/">
 <img align="center" alt="_david | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
